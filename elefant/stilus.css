@@ -19,6 +19,5 @@ p{
 }
 .img-size{
     height: 150px;
-    transition: transform .60s;
     box-shadow: 10px 10px 5px grey;
 }
